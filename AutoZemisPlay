@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="https://i.ibb.co/BLFD0dY/ramos-salto-250514.jpg" pltv-name="ZemisPlayM3U"
-#EXTINF:-1, group-title="2025",Primera Federacion "RFEF"
+#EXTINF:-1, group-title="2025",Únete al grupo Primera Federacion "RFEF"
 acestream://b40212c43e96e97542ea00f2129212a054853a57
 #EXTINF:-1, group-title="2025",DAZN 1
 acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025
@@ -22,6 +22,8 @@ acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 #EXTINF:-1, group-title="2025",DAZN LaLiga 2
 acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3
+#EXTINF:-1, group-title="2025",DAZN Baloncesto
+acestream://a5f2161b0cabe910dc866b5abc6efe5d8f41fd7f
 #EXTINF:-1, group-title="2025",LaLiga Hypermotion
 acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1, group-title="2025",LaLiga Hypermotion
@@ -80,9 +82,9 @@ acestream://b3fc9b5647c5933b101c0b6b64322590c68587b9
 acestream://096b817fcc836535f608facb15fca6408fae3162
 #EXTINF:-1, group-title="2025",Movistar Cine Español
 acestream://e4bce95dd4faeb9cb09ade36a0636bc4b22b691c
-#EXTINF:-1, group-title="2025",Movistar Festival de San Sebastián
+#EXTINF:-1, group-title="2025",Movistar Navidad
 acestream://cf99e99c105162410ec6d1f68cc6f4811560fee7
-#EXTINF:-1, group-title="2025",Movistar Romance
+#EXTINF:-1, group-title="2025",Movistar En Juego
 acestream://4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1, group-title="2025",Movistar Indie
 acestream://7716c9fd5bd4413715e4e26f97efb91802f6ee80
